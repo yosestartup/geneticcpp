@@ -1,4 +1,4 @@
-# Probability alghoritm
+# Genetic algorithm project
 This alghorithm can analize a huge amounts of 3-arguments data and create the most closest (with manual settings) genetic-based data.
 I used ML-elements and genetic programming.
 
